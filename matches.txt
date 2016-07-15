@@ -1,0 +1,13 @@
+==========================================
+Running Cisco ASA Rule Checker 1.2 @ Fri Jul 15 03:33:02 2016: 
+==========================================
+Reading Rules From:     'rules.txt'
+Searching for PROTOCOL: 'any'
+Searching for SRC IP:   'any'
+Searching for DST IP:   'any'
+Searching for DST PORT: 'echo'
+
+==========================================
+The following matches have been found:    
+==========================================
+MATCH: access-list abba line 10 extended permit ip any any
